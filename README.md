@@ -6,7 +6,7 @@ MATLAB code stitching two images taken by a rotating camera. Created as part of 
 
 Images to be stitched:
 
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://prnt.sc/LeXihudC8UN-" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/47959146/210016587-72b8db57-6ff9-44c7-947f-2666466414c3.png" width="150" height="280">
 
 ![image](https://user-images.githubusercontent.com/47959146/210016587-72b8db57-6ff9-44c7-947f-2666466414c3.png)
 ![image](https://user-images.githubusercontent.com/47959146/210016641-f4f3f9eb-50fc-420a-b558-d4aa4fbc9dae.png)
