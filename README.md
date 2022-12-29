@@ -17,11 +17,11 @@ MATLAB code stitching two images taken by a rotating camera. Created as part of 
 
 <div>
   <p>Stitch result:</p>
-    <img src="https://user-images.githubusercontent.com/47959146/210016662-f183a570-1d88-4c07-9625-b8a14cfad16f.png" width="300" height="300">
+    <img src="https://user-images.githubusercontent.com/47959146/210016662-f183a570-1d88-4c07-9625-b8a14cfad16f.png" width="300">
 </div>
 
-<hl>
-  DASJIASDUIHASDHUIASDHUIASDHUIASDHUIASDHUI
+---
+  
 <div>
   <p>Images to be stitched:</p>
   <img src="https://user-images.githubusercontent.com/47959146/210017266-3d6fe7e8-50f3-4e5c-bdfa-866d1ce3ae4b.png" width="300" height="300">
@@ -35,5 +35,5 @@ MATLAB code stitching two images taken by a rotating camera. Created as part of 
 
 <div>
   <p>Stitch result:</p>
-    <img src="https://user-images.githubusercontent.com/47959146/210017341-26a924e5-0b6f-43c0-88e7-fd1d26a468ed.png" width="300" height="300">
+    <img src="https://user-images.githubusercontent.com/47959146/210017341-26a924e5-0b6f-43c0-88e7-fd1d26a468ed.png" height="300">
 </div> 
