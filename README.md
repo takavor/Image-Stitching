@@ -5,7 +5,7 @@ MATLAB code stitching two images taken by a rotating camera. Created as part of 
 ## Results
 
 <div>
-  Images to be stitched:
+  <p>Images to be stitched:</p>
   <img src="https://user-images.githubusercontent.com/47959146/210016587-72b8db57-6ff9-44c7-947f-2666466414c3.png" width="300" height="300">
   <img src="https://user-images.githubusercontent.com/47959146/210016641-f4f3f9eb-50fc-420a-b558-d4aa4fbc9dae.png" width="300" height="300">
 </div>
