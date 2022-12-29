@@ -16,7 +16,7 @@ Images to be stitched:
 SIFT features matches:
 
 <div>
-    <img src="https://user-images.githubusercontent.com/47959146/210016656-54fbbdfa-9b0f-402d-8f86-88a6489b72e4.png" width="300" height="300">
+    <img src="https://user-images.githubusercontent.com/47959146/210016656-54fbbdfa-9b0f-402d-8f86-88a6489b72e4.png" width="300">
 </div>
 
 Stitch result:
