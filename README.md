@@ -35,5 +35,5 @@ MATLAB code stitching two images taken by a rotating camera. Created as part of 
 
 <div>
   <p>Stitch result:</p>
-    <img src="https://user-images.githubusercontent.com/47959146/210017341-26a924e5-0b6f-43c0-88e7-fd1d26a468ed.png" height="300">
+    <img src="https://user-images.githubusercontent.com/47959146/210017341-26a924e5-0b6f-43c0-88e7-fd1d26a468ed.png" height="200">
 </div> 
